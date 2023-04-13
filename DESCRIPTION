@@ -28,3 +28,5 @@ Imports:
     lubridate,
     magrittr
 RoxygenNote: 6.1.1
+URL: https://github.com/betopow/tjdft
+BugReports: https://github.com/betopow/tjdft/issues
